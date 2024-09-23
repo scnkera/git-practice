@@ -2,7 +2,7 @@ def max_value(numbers):
     """ This function returns the largest number
         in the list.
     """
-    #I made this change: Leidy
+    #Leidy made this change: It was nice to work with you all!
     return max(numbers)
 
 
